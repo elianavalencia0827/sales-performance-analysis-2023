@@ -32,7 +32,7 @@ Tableau (Data Visualization)
   
 * Monthly sales showed fluctuations, indicating inconsistent performance
 
-💡 Business Recommendations
+💡 Business Recommendations:
 
 * Focus on high-margin product categories
   
@@ -41,3 +41,9 @@ Tableau (Data Visualization)
 * Leverage high-performing seasons for campaigns
   
 * Improve consistency in monthly sales performance
+
+Dashboard Preview: 
+
+<img width="1419" height="576" alt="image" src="https://github.com/user-attachments/assets/3c27e34d-de7d-4709-95c0-b4c1bd694954" />
+
+Live Dashboard in Tableau Public -> https://public.tableau.com/app/profile/eliana.valencia/viz/Salesinfo2023_Practice/Dashboard?publish=yes
