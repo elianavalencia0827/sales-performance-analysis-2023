@@ -1,18 +1,18 @@
 # sales-performance-analysis-2023
-📊 Sales data analysis project using Excel and Tableau
+Sales data analysis project using Excel and Tableau
 
-📌 Overview:
+Overview:
 
 This project analyzes sales data from 2023 to identify trends in revenue, profitability, customer behavior, and regional performance. 
 The goal was to transform raw data into actionable business insights using Excel and Tableau.
 
-🛠 Tools Used:
+Tools Used:
 
 Excel (Data Cleaning & Analysis)
 
 Tableau (Data Visualization)
 
-🔍 Key Steps:
+Key Steps:
 
 * Data cleaning and structuring using Excel and Power Query
   
@@ -22,7 +22,7 @@ Tableau (Data Visualization)
   
 * Analysis of customer behavior, product performance, and sales trends
 
-📈 Key Insights:
+Key Insights:
 
 * Furniture generated the highest profit despite lower sales volume
   
@@ -32,7 +32,7 @@ Tableau (Data Visualization)
   
 * Monthly sales showed fluctuations, indicating inconsistent performance
 
-💡 Business Recommendations:
+Business Recommendations:
 
 * Focus on high-margin product categories
   
